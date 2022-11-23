@@ -3,13 +3,13 @@ P.SIVA 212220040157
 # Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-
 
 ### Aim :
-To understand linear and joint interpolation of industrial manipulator and develop a program for the same. 
+To understand linear and joint interpolation of industrial manipulator and develop a program for the same 
       
 ### Equipment Required: 
-Instrial manipulator , teach pendant and associated program platform .
+      Instrial manipulator , teach pendant and associated program platform 
       
 ### Theory 
-The following interpolation schemes are available in most of the robot controllers.
+    The following interpolation schemes are available in most of the robot controllers.
 1. Joint interpolation
 2. Straight line interpolation
 3. Circular interpolation
@@ -38,12 +38,36 @@ When the manipulator wrist is moved by the programmer to teach, the movements co
 
 
 ### Program : 
-DART studio screen shots for linear interpolation
-and DRAT studio screen shots for joint interpolation 
-![output](out.jpg)
+DART studio screen shots for linear interpolation 
+
+
+
+
+
+
+
+
+
+DART studio screen shots for joint interpolation 
+
+
+![robo 1](https://user-images.githubusercontent.com/93427186/203103761-94280875-b602-46f9-bd87-dba32b132fc7.jpg)
+
+
+
+
+
+
 ### Robot movements 
-![output](robo.jpg)
-![output](robo2.jpg)
+![robotics1new](https://user-images.githubusercontent.com/93427186/203104007-334b6309-11b0-472f-bb29-62de2cbb2858.jpg)
+
+![robotics2new](https://user-images.githubusercontent.com/93427186/203104022-8e16fa93-2c65-432a-91a1-eb17fc9a83cb.jpg)
+
+
+![robotics3new](https://user-images.githubusercontent.com/93427186/203104042-d50084dc-9625-42ac-8fe1-bcf1b799b0e3.jpg)
+
+
+
 
 
 ### Results:  
